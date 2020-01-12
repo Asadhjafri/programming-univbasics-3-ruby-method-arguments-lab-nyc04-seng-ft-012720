@@ -11,7 +11,10 @@ puts "Hi, my name is #{name} and I am learning to program in {language}"
 end
 
 def introduction_with_language_optional(name,Ruby)
-  
+  puts "Hi mu name is {name} and I am learning to program in {language}"
+end
+
+
 
 
 
